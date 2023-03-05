@@ -1,0 +1,16 @@
+{
+  "name": "po_to_csv_to_po_converter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "papaparse": "^5.4.0",
+    "pofile": "^1.1.4"
+  },
+  "description": ""
+}
